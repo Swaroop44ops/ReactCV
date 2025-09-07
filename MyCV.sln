@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "mycv", "mycv.esproj", "{29AC9DA5-6D22-A427-7729-23A465DEB50A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29AC9DA5-6D22-A427-7729-23A465DEB50A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A3A294C-2EA7-4217-BC7F-952D2141C1B5}
+	EndGlobalSection
+EndGlobal
